@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Marilyn 👋
 
-<!--
-**lumicdaymarilyn-dev/lumicdaymarilyn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build simple, useful digital products with **Bright Digital Studio**.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Bright Creator
+- Educational digital products
+- Mini-apps and PWAs
+- Creator tools for small businesses
+- Digital resources for teachers and families
+
+## Bright Digital Studio
+
+Website:  
+https://bright-digital-studio-links.vercel.app
+
+## Connect with me
+
+Instagram:  
+https://www.instagram.com/bright_digitalstudio
+
+TikTok:  
+https://www.tiktok.com/@bright.digital.st
+
+Threads:  
+https://www.threads.com/@brightdigital_123
