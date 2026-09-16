@@ -28,6 +28,9 @@ https://bright-digital-studio-links.vercel.app
 
 ## Connect with me
 
+Facebook:  
+https://www.facebook.com/brightdigitalstudio123
+
 Instagram:  
 https://www.instagram.com/bright_digitalstudio
 
