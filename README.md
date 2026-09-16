@@ -35,7 +35,7 @@ Instagram:
 https://www.instagram.com/bright_digitalstudio
 
 Pinterest:  
-https://www.pinterest.com/brightdigitalstudio
+https://www.pinterest.com/bright_digitalstudio
 
 TikTok:  
 https://www.tiktok.com/@bright.digital.st
